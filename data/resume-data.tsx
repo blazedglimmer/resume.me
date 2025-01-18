@@ -24,24 +24,24 @@ export const RESUME_DATA = {
       {
         name: 'GitHub',
         url: 'https://github.com/alphacoder-mp3',
-        icon: <Icons.gitHub />,
+        icon: Icons.gitHub,
       },
       {
         name: 'LinkedIn',
         url: 'https://www.linkedin.com/in/akshayshindeconnects/',
-        icon: <Icons.linkedIn />,
+        icon: Icons.linkedIn,
       },
       {
         name: 'X',
         url: 'https://x.com/folklore69_',
-        icon: <Icons.twitter />,
+        icon: Icons.twitter,
       },
     ],
   },
   education: [
     {
       school: 'Mumbai University',
-      degree: 'BSC in Information Technology',
+      degree: 'BSc in Information Technology',
       start: '2015',
       end: '2018',
     },
@@ -50,7 +50,8 @@ export const RESUME_DATA = {
     {
       company: 'Dautom',
       link: '',
-      badges: ['Remote', 'React', 'Next.js', 'TypeScript', 'Node.js'],
+      modeOfWork: ['Remote'],
+      badges: ['React', 'Next.js', 'TypeScript', 'Node.js'],
       title: 'Senior Software Engineer',
       logo: null,
       start: '2025',
@@ -78,8 +79,8 @@ export const RESUME_DATA = {
     {
       company: 'Fanory.ai',
       link: '',
+      modeOfWork: ['Remote'],
       badges: [
-        'Remote',
         'Next.js',
         'React',
         'Agora',
@@ -126,7 +127,8 @@ export const RESUME_DATA = {
     {
       company: 'Pegasus InfoCorp',
       link: '',
-      badges: ['Remote', 'React', 'TypeScript', 'Node.js'],
+      modeOfWork: ['Remote'],
+      badges: ['React', 'TypeScript', 'Node.js'],
       title: ' Senior Software Engineer - Solidity Developer',
       logo: null,
       start: '2021',
@@ -157,8 +159,8 @@ export const RESUME_DATA = {
     {
       company: 'Bitmantics',
       link: '',
+      modeOfWork: ['Remote'],
       badges: [
-        'Remote',
         'Next.js',
         'React',
         'Express',
@@ -190,7 +192,8 @@ export const RESUME_DATA = {
     {
       company: 'Amdocs',
       link: '',
-      badges: ['On Site', 'Production Management', 'Linux'],
+      modeOfWork: ['On-site'],
+      badges: ['Production Management', 'Linux'],
       title: 'Business and Technical Analyst',
       logo: null,
       start: '2018',
@@ -202,11 +205,17 @@ export const RESUME_DATA = {
   skills: [
     'React/Next.js/Remix',
     'TypeScript',
+    'Redux',
+    'Redux Toolkit',
+    'Jotai',
+    'Zustand',
+    'Recoil',
     'Tailwind CSS',
     'Design Systems',
     'WebRTC',
     'WebSockets',
     'Node.js',
+    'Express.js',
     'GraphQL',
     'Relay',
     'System Architecture',
@@ -216,6 +225,7 @@ export const RESUME_DATA = {
     'AWS',
     'Cloudflare',
     'Vercel',
+    'Cloudinary',
   ],
   projects: [
     {
