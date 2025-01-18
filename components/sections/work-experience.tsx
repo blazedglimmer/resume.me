@@ -110,6 +110,19 @@ function WorkExperienceItem({ work }: WorkExperienceItemProps) {
       <CardContent>
         <div className="mt-2 text-xs text-foreground/80 print:mt-1 print:text-[10px] text-pretty">
           {description}
+          <>
+            First Android developer, grew and led a team of 15+ engineers while
+            establishing engineering culture.
+            <ul className="list-inside list-disc">
+              <li>
+                Developed apps for major Polish companies including LOT, Radio,
+                and Agora
+              </li>
+              <li>
+                Built and mentored high-performing mobile development team
+              </li>
+            </ul>
+          </>
         </div>
 
         <BadgeList className="-mx-2 flex-wrap gap-1 mt-2" badges={badges} />
