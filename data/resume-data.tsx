@@ -129,7 +129,7 @@ export const RESUME_DATA = {
       link: '',
       modeOfWork: ['Remote'],
       badges: ['React', 'TypeScript', 'Node.js'],
-      title: ' Senior Software Engineer - Solidity Developer',
+      title: ' Senior Software Engineer',
       logo: null,
       start: '2021',
       end: '2023',
@@ -171,7 +171,7 @@ export const RESUME_DATA = {
         'AWS',
         'Devops',
       ],
-      title: 'Senior Software Engineer',
+      title: 'Software Engineer',
       logo: null,
       start: '2019',
       end: '2021',
@@ -203,6 +203,7 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
+    'AI',
     'React/Next.js/Remix',
     'TypeScript',
     'Redux',
@@ -226,6 +227,9 @@ export const RESUME_DATA = {
     'Cloudflare',
     'Vercel',
     'Cloudinary',
+    'OpenAI',
+    'Gemini',
+    'MistralAI',
   ],
   projects: [
     {
