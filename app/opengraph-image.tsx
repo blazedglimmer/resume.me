@@ -16,7 +16,7 @@ export default async function Image() {
     (
       <div
         style={{
-          background: 'white',
+          background: '#262626',
           width: '100%',
           height: '100%',
           display: 'flex',
@@ -40,7 +40,7 @@ export default async function Image() {
             style={{
               width: '150px',
               height: '150px',
-              borderRadius: '10%',
+              borderRadius: '100%',
               marginBottom: '2rem',
             }}
           />
@@ -48,7 +48,7 @@ export default async function Image() {
             style={{
               fontSize: '3rem',
               fontWeight: 'bold',
-              color: '#333',
+              color: '#fafafa',
               marginBottom: '1rem',
             }}
           >
@@ -57,7 +57,7 @@ export default async function Image() {
           <div
             style={{
               fontSize: '1.5rem',
-              color: '#666',
+              color: '#e5e5e5',
               maxWidth: '600px',
               lineHeight: '1.4',
             }}
@@ -72,7 +72,7 @@ export default async function Image() {
             }}
           >
             {RESUME_DATA.contact.email && (
-              <div style={{ fontSize: '1rem', color: '#666' }}>
+              <div style={{ fontSize: '1rem', color: '#e5e5e5' }}>
                 {RESUME_DATA.personalWebsiteUrl}
               </div>
             )}
