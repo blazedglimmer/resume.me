@@ -17,10 +17,10 @@ export const metadata: Metadata = {
     siteName: `resume.akshayshinde.com`,
     type: 'profile',
     locale: 'en_US',
-    url: `https://resume-me-roan.vercel.app/`,
+    url: `https://resume.akshayshinde.com/`,
     images: [
       {
-        url: 'https://resume-me-roan.vercel.app/opengraph-image',
+        url: 'https://resume.akshayshinde.com/opengraph-image',
         width: 1200,
         height: 630,
         alt: `${RESUME_DATA.name}'s profile picture`,
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: `${RESUME_DATA.name} - Resume`,
     description: RESUME_DATA.about,
-    images: ['https://resume-me-roan.vercel.app/opengraph-image'],
+    images: ['https://resume.akshayshinde.com/opengraph-image'],
     creator: '@Akshay',
   },
 };
