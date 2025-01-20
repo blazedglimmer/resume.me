@@ -49,7 +49,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: 'Dautom',
-      link: '',
+      link: 'https://www.dautom.com/',
       modeOfWork: ['Remote'],
       badges: ['React', 'Next.js', 'TypeScript', 'Node.js'],
       title: 'Senior Software Engineer',
@@ -78,7 +78,7 @@ export const RESUME_DATA = {
     },
     {
       company: 'Fanory.ai',
-      link: '',
+      link: 'https://www.fanory.ai/',
       modeOfWork: ['Remote'],
       badges: [
         'Next.js',
@@ -126,7 +126,7 @@ export const RESUME_DATA = {
     },
     {
       company: 'Pegasus InfoCorp',
-      link: '',
+      link: 'https://www.pegasusinfocorp.com/',
       modeOfWork: ['Remote'],
       badges: ['React', 'TypeScript', 'Node.js'],
       title: ' Senior Software Engineer',
@@ -158,7 +158,7 @@ export const RESUME_DATA = {
     },
     {
       company: 'Bitmantics',
-      link: '',
+      link: 'https://www.bitmantics.com/',
       modeOfWork: ['Remote'],
       badges: [
         'Next.js',
@@ -167,9 +167,12 @@ export const RESUME_DATA = {
         'Node',
         'Mongo',
         'Postgres',
+        'Mysql',
         'Prisma',
         'AWS',
         'Devops',
+        'Docker',
+        'Kubernetes',
       ],
       title: 'Software Engineer',
       logo: null,
@@ -191,7 +194,7 @@ export const RESUME_DATA = {
     },
     {
       company: 'Amdocs',
-      link: '',
+      link: 'https://www.amdocs.com/',
       modeOfWork: ['On-site'],
       badges: ['Production Management', 'Linux'],
       title: 'Business and Technical Analyst',
@@ -215,12 +218,15 @@ export const RESUME_DATA = {
     'Design Systems',
     'WebRTC',
     'WebSockets',
+    'React Native',
     'Node.js',
     'Express.js',
     'GraphQL',
     'Relay',
     'System Architecture',
     'Remote Team Leadership',
+    'Docker',
+    'Kubernetes',
     'Cloud',
     'Devops',
     'AWS',
