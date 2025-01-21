@@ -42,8 +42,8 @@ export const RESUME_DATA = {
     {
       school: 'Mumbai University',
       degree: 'BSc in Information Technology',
-      start: '2015',
-      end: '2018',
+      start: 'June 2015',
+      end: 'May 2018',
     },
   ],
   work: [
@@ -84,6 +84,7 @@ export const RESUME_DATA = {
         'Next.js',
         'React',
         'Agora',
+        'SEO',
         'TypeScript',
         'Node.js',
         'GraphQL',
@@ -94,6 +95,7 @@ export const RESUME_DATA = {
         'Redux',
         'React Native',
         'Redux Toolkit',
+        'Lottie',
       ],
       title: 'Senior Software Engineer',
       logo: null,
@@ -128,7 +130,18 @@ export const RESUME_DATA = {
       company: 'Pegasus InfoCorp',
       link: 'https://www.pegasusinfocorp.com/',
       modeOfWork: ['Remote'],
-      badges: ['React', 'TypeScript', 'Node.js'],
+      badges: [
+        'React',
+        'TypeScript',
+        'Node.js',
+        'Webpack',
+        'Ant design',
+        'jQuery',
+        'Express.js',
+        'Redux',
+        'Mysql',
+        'AWS',
+      ],
       title: ' Senior Software Engineer',
       logo: null,
       start: 'Sept 2021',
@@ -173,6 +186,7 @@ export const RESUME_DATA = {
         'Devops',
         'Docker',
         'Kubernetes',
+        'Zod',
       ],
       title: 'Software Engineer',
       logo: null,
@@ -196,7 +210,13 @@ export const RESUME_DATA = {
       company: 'Amdocs',
       link: 'https://www.amdocs.com/',
       modeOfWork: ['On-site'],
-      badges: ['Production Management', 'Linux'],
+      badges: [
+        'Production Management',
+        'Linux',
+        'SQL',
+        'Scripting',
+        'Automation',
+      ],
       title: 'Business and Technical Analyst',
       logo: null,
       start: 'July 2018',
@@ -244,6 +264,8 @@ export const RESUME_DATA = {
     'RTL',
     'Jest',
     'Vitest',
+    'Webpack',
+    'PWA',
   ],
   projects: [
     {
@@ -296,13 +318,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: 'Minimalist Resume',
+      title: 'Classic Resume',
       techStack: ['TypeScript', 'Next.js', 'Tailwind CSS'],
       description:
-        'An open source minimalist, print friendly resume template with a focus on readability and clean design.',
+        'An open source classic, print friendly resume template with a focus on readability and clean design.',
       logo: null,
       link: {
-        label: 'Minimalist Resume',
+        label: 'Classic Resume',
         href: 'https://github.com/alphacoder-mp3/resume.me',
       },
     },
@@ -384,6 +406,45 @@ export const RESUME_DATA = {
       link: {
         label: 'ByteNotes - A web app just like Google keep',
         href: 'https://github.com/alphacoder-mp3/ByteNotes',
+      },
+    },
+    {
+      title: 'A Landing page builder',
+      techStack: ['Next.js', 'Server actions', 'TypeScript', 'Tailwind CSS'],
+      description:
+        'A Landing Page Builder - A web app to build your customizable landing page for your business or product',
+      logo: null,
+      link: {
+        label:
+          'Landing Page Builder - A web app to build your customizable landing page ',
+        href: 'https://github.com/alphacoder-mp3/landing-page-builder',
+      },
+    },
+    {
+      title: 'Indiehash FE - Vetted Social Media Platform',
+      techStack: [
+        'Next.js',
+        'Server actions',
+        'TypeScript',
+        'Tailwind CSS',
+        'Vercel',
+      ],
+      description:
+        'A social media aggregator front end built on top of next.js server components with highly optimised implementations',
+      logo: null,
+      link: {
+        label: 'Indiehash FE - Vetted Social Media Platform',
+        href: 'https://indiehash.com',
+      },
+    },
+    {
+      title: 'Indiehash BE - Vetted Social Media Platform',
+      techStack: ['GoLang', 'Linode'],
+      description: 'A social media aggregator back end built on top of GoLang',
+      logo: null,
+      link: {
+        label: 'Indiehash BE - Vetted Social Media Platform',
+        href: 'https://github.com/alphacoder-mp3/indie-back-mvp',
       },
     },
   ],
