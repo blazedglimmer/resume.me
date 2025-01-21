@@ -58,19 +58,10 @@ export const RESUME_DATA = {
       end: null,
       description: (
         <>
-          Leading technical architecture of a blockchain-based film funding
-          platform.
+          Leading technical architecture of banking platforms.
           <ul className="list-inside list-disc">
             <li>
               Working on integrating third party APIs to the current stack
-            </li>
-            <li>
-              Spearheaded the development of API rate limiter using redis as the
-              distributed cache
-            </li>
-            <li>
-              Working on data ingestion and query pipeline for the billing
-              framework
             </li>
           </ul>
         </>
@@ -103,8 +94,7 @@ export const RESUME_DATA = {
       end: 'Dec 2024',
       description: (
         <>
-          Senior developer and squad leader for an enterprise agile meeting
-          platform.
+          Senior developer for an live streaming media platform.
           <ul className="list-inside list-disc">
             <li>
               Frontend Architecture: Led frontend architecture decisions,
@@ -131,8 +121,9 @@ export const RESUME_DATA = {
               development time
             </li>
             <li>
-              Setup a single node blockchain using EVM OS, configured scripts
-              and Dockerfile suited to our usecase
+              Led DevOps initiatives including CI/CD pipelines with GitHub
+              Actions and containerization with Docker, ensuring consistent
+              deployment and scalability
             </li>
           </ul>
         </>
@@ -165,17 +156,23 @@ export const RESUME_DATA = {
           <ul className="list-inside list-disc">
             <li>Developed payment and search services implemented in Go</li>
             <li>
-              Worked on data ingestion service to populate data in Elasticsearch
-              to power search and recommendation services
+              Web Development Lifecycle: Engaged in the complete web development
+              process from design to deployment, ensuring that front-end
+              components integrate seamlessly with backend APIs.
             </li>
             <li>
-              Collaborated on migrating the monolith to a microservices
-              architecture
+              Performance Optimization: Focused on web performance optimization,
+              ensuring the application runs smoothly and efficiently across
+              devices resulting in 80% performance improvement
             </li>
             <li>
-              Worked with the DevOps team to fix issues in the data collection
-              pipeline and migrated Elasticsearch from a self-hosted instance to
-              a cloud-managed instance
+              Ensured cross-browser compatibility and optimized components for
+              maximum performance.
+            </li>
+            <li>
+              Participated in code reviews, contributing to a clean and
+              efficient codebase through collaboration and thorough
+              documentation.
             </li>
           </ul>
         </>
@@ -206,14 +203,32 @@ export const RESUME_DATA = {
       end: 'Sep 2021',
       description: (
         <>
-          First Android developer, grew and led a team of 15+ engineers while
-          establishing engineering culture.
+          Architected and developed full-stack applications using Next.js for
+          the front end and Node.js with Express for the back end, implementing
+          features such as dynamic routing, real-time data processing, and
+          server-side rendering.
           <ul className="list-inside list-disc">
             <li>
-              Developed apps for major Polish companies including LOT, Radio,
-              and Agora
+              Implemented complex business logic in server-side components and
+              APIs, ensuring robust and secure data handling across various
+              domains.
             </li>
-            <li>Built and mentored high-performing mobile development team</li>
+            <li>
+              Enhanced front-end performance and SEO through advanced techniques
+              like code-splitting, lazy loading, and dynamic metadata
+              generation.
+            </li>
+            <li>
+              Optimised front end with best practices like lazy loading,
+              minification and compression of js bundle reducing its size, using
+              optimal memoizations and caching practices, lazy loading the
+              assets,
+            </li>
+            <li>
+              Developed and maintained CI/CD pipelines with GitHub Actions and
+              automation testing frameworks, ensuring rapid and reliable
+              delivery.
+            </li>
           </ul>
         </>
       ),
@@ -228,13 +243,32 @@ export const RESUME_DATA = {
         'SQL',
         'Scripting',
         'Automation',
+        'React',
+        'Node',
       ],
       title: 'Business and Technical Analyst',
       logo: null,
       start: 'July 2018',
       end: 'Aug 2019',
-      description:
-        'Developed software for LTE base stations at enterprise scale, gaining strong fundamentals in software architecture, testing practices, and cross-team collaboration.',
+      description: (
+        <>
+          Initially worked on Bell Canada Project in Production Management with
+          tech like Linux, Sql and krrish flow automation. Later on transitioned
+          to full stack.
+          <ul className="list-inside list-disc">
+            <li>
+              Automation and Krrish Flows: Leveraging my automation skills, I
+              successfully implemented Krrish flows to automate our daily
+              processes.
+            </li>
+            <li>
+              Collaborated with cross-functional teams to design and implement
+              RESTful APIs, integrating them seamlessly into front-end
+              applications for real-time data processing.
+            </li>
+          </ul>
+        </>
+      ),
     },
   ],
   skills: [
