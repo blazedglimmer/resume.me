@@ -54,7 +54,7 @@ export const RESUME_DATA = {
       badges: ['React', 'Next.js', 'TypeScript', 'Node.js'],
       title: 'Senior Software Engineer',
       logo: null,
-      start: '2025',
+      start: 'Jan 2025',
       end: null,
       description: (
         <>
@@ -97,8 +97,8 @@ export const RESUME_DATA = {
       ],
       title: 'Senior Software Engineer',
       logo: null,
-      start: '2023',
-      end: '2024',
+      start: 'May 2023',
+      end: 'Dec 2024',
       description: (
         <>
           Senior developer and squad leader for an enterprise agile meeting
@@ -131,8 +131,8 @@ export const RESUME_DATA = {
       badges: ['React', 'TypeScript', 'Node.js'],
       title: ' Senior Software Engineer',
       logo: null,
-      start: '2021',
-      end: '2023',
+      start: 'Sept 2021',
+      end: 'May 2023',
       description: (
         <>
           Successfully transitioned from mobile to full-stack development while
@@ -176,8 +176,8 @@ export const RESUME_DATA = {
       ],
       title: 'Software Engineer',
       logo: null,
-      start: '2019',
-      end: '2021',
+      start: 'Aug 2019',
+      end: 'Sep 2021',
       description: (
         <>
           First Android developer, grew and led a team of 15+ engineers while
@@ -199,8 +199,8 @@ export const RESUME_DATA = {
       badges: ['Production Management', 'Linux'],
       title: 'Business and Technical Analyst',
       logo: null,
-      start: '2018',
-      end: '2019',
+      start: 'July 2018',
+      end: 'Aug 2019',
       description:
         'Developed software for LTE base stations at enterprise scale, gaining strong fundamentals in software architecture, testing practices, and cross-team collaboration.',
     },
@@ -218,9 +218,13 @@ export const RESUME_DATA = {
     'Design Systems',
     'WebRTC',
     'WebSockets',
+    'Agora',
+    'Redis',
     'React Native',
     'Node.js',
     'Express.js',
+    'Prisma',
+    'Mongoose',
     'GraphQL',
     'Relay',
     'System Architecture',
@@ -236,16 +240,42 @@ export const RESUME_DATA = {
     'OpenAI',
     'Gemini',
     'MistralAI',
+    'Git',
+    'RTL',
+    'Jest',
+    'Vitest',
   ],
   projects: [
     {
       title: 'Sentinent AI',
       techStack: ['TypeScript', 'Next.js', 'OpenAI', 'IndexedDB', 'PWA', 'AI'],
-      description: 'AI based webapp like chatgpt and claude',
+      description:
+        'AI based webapp like chatgpt and claude with full offline capabilities with indexedDB, service workers',
       logo: null,
       link: {
         label: 'sentinent-ai',
         href: 'https://sentinent-ai.vercel.app/',
+      },
+    },
+    {
+      title: 'AI Canvas System',
+      techStack: [
+        'TypeScript',
+        'Next.js',
+        'Tailwind CSS',
+        'AI',
+        'Fabric',
+        'Replicate',
+        'Gradio',
+        'Zod',
+        'Zustand',
+      ],
+      description:
+        'A modern trendy portfolio built with latest Next js, tailwind and typescript',
+      logo: null,
+      link: {
+        label: 'Akshay Portfolio',
+        href: 'https://github.com/alphacoder-mp3/ai-canvas-system',
       },
     },
     {
@@ -272,8 +302,88 @@ export const RESUME_DATA = {
         'An open source minimalist, print friendly resume template with a focus on readability and clean design.',
       logo: null,
       link: {
-        label: 'Minimalist CV',
+        label: 'Minimalist Resume',
         href: 'https://github.com/alphacoder-mp3/resume.me',
+      },
+    },
+    {
+      title: 'Portfolio',
+      techStack: ['TypeScript', 'Next.js', 'Tailwind CSS'],
+      description:
+        'A modern trendy portfolio built with latest Next js, tailwind and typescript',
+      logo: null,
+      link: {
+        label: 'Akshay Portfolio',
+        href: 'https://akshayshinde.com',
+      },
+    },
+
+    {
+      title: 'Taskenger',
+      techStack: [
+        'TypeScript',
+        'Next.js',
+        'Tailwind CSS',
+        'Prisma',
+        'Server actions',
+      ],
+      description:
+        'Fully functional Trello web app with rich features exactly how trello provides',
+      logo: null,
+      link: {
+        label: 'Taskenger - trello',
+        href: 'https://github.com/alphacoder-mp3/taskenger',
+      },
+    },
+    {
+      title: 'Spotify',
+      techStack: [
+        'TypeScript',
+        'Next.js',
+        'Tailwind CSS',
+        'Prisma',
+        'Server actions',
+      ],
+      description: 'An audio streaming music platform',
+      logo: null,
+      link: {
+        label: 'Spotify - A music player',
+        href: 'https://github.com/alphacoder-mp3/spotify.me',
+      },
+    },
+    {
+      title: 'Devstream',
+      techStack: [
+        'Express',
+        'Multer',
+        'Cloudinary',
+        'Mongoose',
+        'TypeScript',
+        'Next.js',
+        'Tailwind CSS',
+      ],
+      description: 'An video streaming platform like youtube',
+      logo: null,
+      link: {
+        label: 'Devstream - A youtube like platform',
+        href: 'https://github.com/alphacoder-mp3/spotify.me',
+      },
+    },
+    {
+      title: 'ByteNotes',
+      techStack: [
+        'Next.js',
+        'Cloudinary',
+        'Server actions',
+        'TypeScript',
+        'Tailwind CSS',
+      ],
+      description:
+        'A platform like a google keep with real time collaborative features',
+      logo: null,
+      link: {
+        label: 'ByteNotes - A web app just like Google keep',
+        href: 'https://github.com/alphacoder-mp3/ByteNotes',
       },
     },
   ],
