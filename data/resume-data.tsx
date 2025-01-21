@@ -19,7 +19,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: 'https://akshayshinde.com',
   contact: {
     email: 'remote.dev.codes@gmail.com',
-    tel: '+91 XXXX XXX XXX',
+    tel: '+91 XXXXXXXXXX',
     social: [
       {
         name: 'GitHub',
@@ -107,16 +107,28 @@ export const RESUME_DATA = {
           platform.
           <ul className="list-inside list-disc">
             <li>
-              Worked on onchain listeners to listen to blockchain events and
-              trigger temporal workflows
+              Frontend Architecture: Led frontend architecture decisions,
+              ensuring scalability and maintainability of the platform
             </li>
             <li>
-              Worked on using AWS KMS for secure wallet generation, offchain
-              signatures, signing transactions
+              A publicly available platform used by a wide range of audiences,
+              designed to help creators connect with their fans and earn revenue
             </li>
             <li>
-              Setup a single node blockchain using EVM OS, configured scripts
-              and Dockerfile suited to our usecase
+              Implemented live streaming with continuous live scroll feature,
+              video/audio calling and real time chats using Agora and GraphQL,
+              resulting in a 10% increase in user engagement, equating to a
+              $300,000 boost in monthly subscription revenue
+            </li>
+            <li>
+              Enabled real-time interactions, including live chats and animated
+              gift stickers, contributing to a 12% increase in user engagement
+              and $100,000 in additional monthly revenue
+            </li>
+            <li>
+              Introduced web components, streamlining UI development across
+              diverse frameworks and libraries, resulting in a 20% reduction in
+              development time
             </li>
             <li>
               Setup a single node blockchain using EVM OS, configured scripts
@@ -266,6 +278,9 @@ export const RESUME_DATA = {
     'Vitest',
     'Webpack',
     'PWA',
+    'Ngnix',
+    'HonoJS',
+    'Web components',
   ],
   projects: [
     {
