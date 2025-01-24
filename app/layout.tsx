@@ -31,6 +31,8 @@ export const metadata: Metadata = {
     'Full stack engineer',
     'Devops engineer',
     'Tech Lead',
+    'Akshay Shinde front end engineer',
+    'Akshay Shinde full stack engineer',
   ],
 };
 
