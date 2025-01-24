@@ -1,4 +1,4 @@
-import { GlobeIcon, MailIcon, PhoneIcon, Printer } from 'lucide-react';
+import { GlobeIcon, MailIcon, PhoneIcon } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { ModeToggle } from '@/components/mode-toggle';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
@@ -94,7 +94,7 @@ function ContactButtons({ contact, personalWebsiteUrl }: ContactButtonsProps) {
         />
       ))}
       <ModeToggle className="h-8 w-8 border dark:border-neutral-600" />
-      <Printer className="h-8 w-8 border dark:border-neutral-600" size={12} />
+      {/* <Printer className="h-8 w-8 border dark:border-neutral-600" size={12} /> */}
     </div>
   );
 }
