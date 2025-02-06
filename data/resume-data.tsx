@@ -61,7 +61,8 @@ export const RESUME_DATA = {
           Leading technical architecture of banking platforms.
           <ul className="list-inside list-disc">
             <li>
-              Working on integrating third party APIs to the current stack
+              Working on integrating third party APIs and new features to the
+              current stack
             </li>
           </ul>
         </>
@@ -125,6 +126,32 @@ export const RESUME_DATA = {
               Actions and containerization with Docker, ensuring consistent
               deployment and scalability
             </li>
+            <li>
+              Developed and maintained scalable web applications using React,
+              Next.js, and TypeScript on the front end, coupled with Node.js and
+              Express on the back end, delivering seamless user experiences.
+            </li>
+            <li>
+              {`Architected real-time features such as live streaming, audio/video rooms, and GraphQL subscriptions with Agora, enhancing the platform's interactivity and engagement.`}
+            </li>
+            <li>
+              Implemented server-side rendering (SSR) and static site generation
+              (SSG) in Next.js, optimizing both performance and SEO.
+            </li>
+            <li>
+              Designed and integrated RESTful APIs for various application
+              features, ensuring efficient data exchange between the front end
+              and back end.
+            </li>
+            <li>
+              Handled database management using Prisma and PostgreSQL, focusing
+              on schema design, query optimization, and data migrations.
+            </li>
+            <li>
+              Led DevOps initiatives including CI/CD pipelines with GitHub
+              Actions and containerization with Docker, ensuring consistent
+              deployment and scalability.
+            </li>
           </ul>
         </>
       ),
@@ -174,6 +201,31 @@ export const RESUME_DATA = {
               efficient codebase through collaboration and thorough
               documentation.
             </li>
+            <li>
+              Led the development of a high-traffic web application, using
+              React, Next.js, and TypeScript on the front end, paired with
+              Node.js, Express, and GraphQL on the back end.
+            </li>
+            <li>
+              Designed and implemented a robust back-end architecture with
+              Prisma for database management, enabling efficient data handling
+              and ensuring scalability.
+            </li>
+            <li>
+              Integrated cloud services like Amazon S3, CloudFront, and AWS EC2
+              for optimized file storage, content delivery, and scalable
+              deployment.
+            </li>
+            <li>
+              Implemented authentication and authorization mechanisms using JWT
+              and OAuth, securing the application while maintaining a smooth
+              user experience.
+            </li>
+            <li>
+              Implemented Redis caching: Successfully integrated Redis caching
+              mechanism, resulting in a significant improvement in system
+              efficiency by reducing API response times by 40%.
+            </li>
           </ul>
         </>
       ),
@@ -222,12 +274,31 @@ export const RESUME_DATA = {
               Optimised front end with best practices like lazy loading,
               minification and compression of js bundle reducing its size, using
               optimal memoizations and caching practices, lazy loading the
-              assets,
+              assets.
             </li>
             <li>
               Developed and maintained CI/CD pipelines with GitHub Actions and
               automation testing frameworks, ensuring rapid and reliable
               delivery.
+            </li>
+            <li>
+              Architected and developed full-stack applications using Next.js
+              for the front end and Node.js with Express for the back end,
+              implementing features such as dynamic routing, real-time data
+              processing, and server-side rendering.
+            </li>
+            <li>
+              Integrated third-party services such as Cloudinary for image
+              management, streamlining complex workflows within the application.
+            </li>
+            <li>
+              Managed deployment on AWS using EC2 instances, ensuring high
+              availability and performance under heavy traffic.
+            </li>
+            <li>
+              Led the development of a microservices architecture, deploying
+              services independently using Docker and managing them through
+              Kubernetes, improving system scalability and maintainability.
             </li>
           </ul>
         </>
@@ -265,6 +336,15 @@ export const RESUME_DATA = {
               Collaborated with cross-functional teams to design and implement
               RESTful APIs, integrating them seamlessly into front-end
               applications for real-time data processing.
+            </li>
+            <li>
+              Developed enterprise-level applications with React, Next.js, and
+              TypeScript on the front end, and Node.js with Express on the back
+              end, ensuring high performance and maintainability.
+            </li>
+            <li>
+              Managed database operations using Prisma and MySQL, focusing on
+              query optimization, schema migrations, and data integrity.
             </li>
           </ul>
         </>

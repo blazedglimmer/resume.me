@@ -110,6 +110,7 @@ function WorkExperienceItem({ work }: WorkExperienceItemProps) {
       <CardContent>
         <div className="mt-2 text-xs text-foreground/80 print:mt-1 print:text-[10px] text-pretty">
           {description}
+          <ul className="list-disc list-inside"></ul>{' '}
         </div>
 
         <BadgeList className="-mx-2 flex-wrap gap-1 mt-2" badges={badges} />
