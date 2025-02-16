@@ -51,7 +51,7 @@ export const RESUME_DATA = {
       company: 'Dautom',
       link: 'https://www.dautom.com/',
       modeOfWork: ['Remote'],
-      badges: ['React', 'Next.js', 'TypeScript', 'Node.js'],
+      badges: ['React', 'Next.js', 'TypeScript', 'Node.js', 'Material UI'],
       title: 'Senior Software Engineer',
       logo: null,
       start: 'Jan 2025',
@@ -395,6 +395,9 @@ export const RESUME_DATA = {
     'Ngnix',
     'HonoJS',
     'Web components',
+    'Material UI',
+    'Ant Design',
+    'Shadcn UI',
   ],
   projects: [
     {
