@@ -398,6 +398,7 @@ export const RESUME_DATA = {
     'Material UI',
     'Ant Design',
     'Shadcn UI',
+    'Python',
   ],
   projects: [
     {
