@@ -19,7 +19,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: 'https://akshayshinde.com',
   contact: {
     email: 'remote.dev.codes@gmail.com',
-    tel: '+91 XXXXXXXXXX',
+    tel: process.env.NEXT_PRIVATE_MOBILE_NUMBER,
     social: [
       {
         name: 'GitHub',
