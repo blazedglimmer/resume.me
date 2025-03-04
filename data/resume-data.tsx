@@ -64,6 +64,16 @@ export const RESUME_DATA = {
               Working on integrating third party APIs and new features to the
               current stack
             </li>
+            <li>
+              Spearheaded the development of new features and maintained
+              existing functionalities in banking platforms, ensuring seamless
+              integration and optimal performance.
+            </li>
+            <li>
+              Performance optimization: Implemented various performance
+              enhancements, resulting in a 25% improvement in application speed
+              and responsiveness.
+            </li>
           </ul>
         </>
       ),
