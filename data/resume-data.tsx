@@ -6,12 +6,13 @@ export const RESUME_DATA = {
   location: 'Mumbai, IN',
   locationLink: '',
   about:
-    'Detail-oriented Full Stack Engineer dedicated to building high-quality products.',
+    'Detail-oriented Full Stack + AI Engineer dedicated to building high-quality products.',
   summary: (
     <>
-      Full Stack Engineer specializing in high-performance React applications,
-      scalable Node.js services, and real-time collaboration systems.
-      Experienced in technical architecture design and remote team leadership.
+      AI engineer + Full Stack Engineer specializing in high-performance React
+      applications, scalable Node.js services, and real-time collaboration
+      systems. Experienced in technical architecture design and remote team
+      leadership.
     </>
   ),
   avatarUrl:
@@ -98,6 +99,7 @@ export const RESUME_DATA = {
         'React Native',
         'Redux Toolkit',
         'Lottie',
+        'AI',
       ],
       title: 'Senior Software Engineer',
       logo: null,
