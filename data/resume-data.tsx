@@ -24,7 +24,7 @@ export const RESUME_DATA = {
     social: [
       {
         name: 'GitHub',
-        url: 'https://github.com/alphacoder-mp3',
+        url: 'https://github.com/blazedglimmer',
         icon: Icons.gitHub,
       },
       {
@@ -442,7 +442,7 @@ export const RESUME_DATA = {
       logo: null,
       link: {
         label: 'Akshay Portfolio',
-        href: 'https://github.com/alphacoder-mp3/ai-canvas-system',
+        href: 'https://github.com/blazedglimmer/ai-canvas-system',
       },
     },
     {
@@ -470,7 +470,7 @@ export const RESUME_DATA = {
       logo: null,
       link: {
         label: 'Classic Resume',
-        href: 'https://github.com/alphacoder-mp3/resume.me',
+        href: 'https://github.com/blazedglimmer/resume.me',
       },
     },
     {
@@ -499,7 +499,7 @@ export const RESUME_DATA = {
       logo: null,
       link: {
         label: 'Taskenger - trello',
-        href: 'https://github.com/alphacoder-mp3/taskenger',
+        href: 'https://github.com/blazedglimmer/taskenger',
       },
     },
     {
@@ -515,7 +515,7 @@ export const RESUME_DATA = {
       logo: null,
       link: {
         label: 'Spotify - A music player',
-        href: 'https://github.com/alphacoder-mp3/spotify.me',
+        href: 'https://github.com/blazedglimmer/spotify.me',
       },
     },
     {
@@ -533,7 +533,7 @@ export const RESUME_DATA = {
       logo: null,
       link: {
         label: 'Devstream - A youtube like platform',
-        href: 'https://github.com/alphacoder-mp3/spotify.me',
+        href: 'https://github.com/blazedglimmer/spotify.me',
       },
     },
     {
@@ -550,7 +550,7 @@ export const RESUME_DATA = {
       logo: null,
       link: {
         label: 'ByteNotes - A web app just like Google keep',
-        href: 'https://github.com/alphacoder-mp3/ByteNotes',
+        href: 'https://github.com/blazedglimmer/ByteNotes',
       },
     },
     {
@@ -562,7 +562,7 @@ export const RESUME_DATA = {
       link: {
         label:
           'Landing Page Builder - A web app to build your customizable landing page ',
-        href: 'https://github.com/alphacoder-mp3/landing-page-builder',
+        href: 'https://github.com/blazedglimmer/landing-page-builder',
       },
     },
     {
@@ -589,7 +589,7 @@ export const RESUME_DATA = {
       logo: null,
       link: {
         label: 'Indiehash BE - Vetted Social Media Platform',
-        href: 'https://github.com/alphacoder-mp3/indie-back-mvp',
+        href: 'https://github.com/blazedglimmer/indie-back-mvp',
       },
     },
   ],
